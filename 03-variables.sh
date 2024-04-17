@@ -2,8 +2,8 @@
 
 #declaring a variable
 
-PERSON1=SRH  #no space between = and value
-PERSON2=CSK
+PERSON1=$1  #no space between = and value
+PERSON2=$2
 
 #referring a variable
 
