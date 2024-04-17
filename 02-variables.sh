@@ -1,6 +1,6 @@
 #!/bin/bash
 
-PERSON1= SRH  #no space before "=" and after
+PERSON1=SRH  #no space before "=" and after
 PERSON2=CSK
 
 echo "$PERSON1:: Hello $PERSON2, How are you?"
