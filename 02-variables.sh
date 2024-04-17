@@ -1,7 +1,7 @@
 #!/bin/bash
 
-PERSON1=AKHIL  #no space before "=" and after
-PERSON2=SAI
+PERSON1= SRH  #no space before "=" and after
+PERSON2=CSK
 
 echo "$PERSON1:: Hello $PERSON2, How are you?"
 echo "$PERSON2:: Hi $PERSON1, I am fine. How are you?"
