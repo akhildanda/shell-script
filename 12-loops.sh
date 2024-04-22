@@ -2,5 +2,5 @@
 
 for i in {20..28}
 do
-  echo $i
+  echo ($i)
  done 
